@@ -20,7 +20,7 @@ This project explores the Titanic dataset (`titanic_new.csv`) using R, focusing 
 - `titanic_analysis.R` – main R script
 - `plots/` 
 - `raport.pdf` – detailed report in Polish
-- `titanic_new.csv` – dataset (if sharable)
+- `titanic_new.csv` – The dataset used in this project is based on the [Titanic dataset](https://www.kaggle.com/competitions/titanic/data) from Kaggle.
 
 ## 🧠 Key findings
 - Survival rates depended strongly on gender and passenger class
